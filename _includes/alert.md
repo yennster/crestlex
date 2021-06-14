@@ -1,0 +1,1 @@
+If interested in [verified certificates](https://www.edx.org/verified-certificate) from [edX](https://www.edx.org/), enroll [here](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning).
