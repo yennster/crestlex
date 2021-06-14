@@ -5,6 +5,9 @@ plugins:
 
 remote_theme: dhilanr/jekyll-theme-crestlex
 
+url: dhilanr.github.io/crestlex
+baseurl: /
+
 title: CRESTLEX3
 
 alert:
