@@ -8,7 +8,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Vijay Reddi" class="card-img img-thumbnail" src="/assets/team/vijay.png" style="max-height: 15rem; width: auto;">
+      <img alt="Vijay Reddi" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/vijay.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Professor Vijay Janapa Reddi</b><br>
@@ -21,7 +21,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Laurence Moroney" class="card-img img-thumbnail" src="/assets/team/laurence.png" style="max-height: 15rem; width: auto;">
+      <img alt="Laurence Moroney" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/laurence.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Laurence Moroney</b><br>
@@ -34,7 +34,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Peter Romine" class="card-img img-thumbnail" src="/assets/team/peter.png" style="max-height: 15rem; width: auto;">
+      <img alt="Peter Romine" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/peter.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Professor Peter Romine</b><br>
@@ -47,7 +47,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Monsuru Ramoni" class="card-img img-thumbnail" src="/assets/team/monsuru.png" style="max-height: 15rem; width: auto;">
+      <img alt="Monsuru Ramoni" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/monsuru.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Professor Monsuru Ramoni</b><br>
@@ -60,7 +60,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Jenny Plunkett" class="card-img img-thumbnail" src="/assets/team/jenny.png" style="max-height: 15rem; width: auto;">
+      <img alt="Jenny Plunkett" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/jenny.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Jenny Plunkett</b><br>
@@ -73,7 +73,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Gage Hills" class="card-img img-thumbnail" src="/assets/team/gage.png" style="max-height: 15rem; width: auto;">
+      <img alt="Gage Hills" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/gage.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Professor Gage Hills</b><br>
@@ -86,7 +86,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Susan Kennedy" class="card-img img-thumbnail" src="/assets/team/susan.png" style="max-height: 15rem; width: auto;">
+      <img alt="Susan Kennedy" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/susan.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Susan Kennedy</b><br>
@@ -99,7 +99,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Brian Plancher" class="card-img img-thumbnail" src="/assets/team/brian.png" style="max-height: 15rem; width: auto;">
+      <img alt="Brian Plancher" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/brian.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Brian Plancher</b><br>
@@ -112,7 +112,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Dhilan Ramaprasad" class="card-img img-thumbnail" src="/assets/team/dhilan.png" style="max-height: 15rem; width: auto;">
+      <img alt="Dhilan Ramaprasad" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/dhilan.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Dhilan Ramaprasad</b><br>
@@ -126,7 +126,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Kathryn Hollar" class="card-img img-thumbnail" src="/assets/team/kathryn.png" style="max-height: 15rem; width: auto;">
+      <img alt="Kathryn Hollar" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/kathryn.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Kathryn Hollar</b><br>
@@ -139,7 +139,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Molly Marshall" class="card-img img-thumbnail" src="/assets/team/molly.png" style="max-height: 15rem; width: auto;">
+      <img alt="Molly Marshall" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/molly.png" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Molly Marshall</b><br>

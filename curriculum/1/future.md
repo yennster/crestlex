@@ -26,7 +26,7 @@
   ```
 
 ## Embed PDF example
-<iframe title="Tools" src="{{'/curriculum/1/future/tinyML.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>
+<iframe title="Tools" src="{{'{{ site.baseurl }}/curriculum/1/future/tinyML.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>
 
 ## Heading
 Words
