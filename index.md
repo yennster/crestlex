@@ -35,26 +35,26 @@ This program is a collaboration among **Navajo Technical University**, **Harvard
     <tr>
       <td><b>1</b></td>
       <td>Tuesday, 6/22</td>
-      <td><a href="/curriculum/1/future">The Future of Artificial Intelligence</a></td>
-      <td><a href="/curriculum/1/experiment">Experimenting with AI</a></td>
+      <td><a href="{{ site.baseurl }}/curriculum/1/future">The Future of Artificial Intelligence</a></td>
+      <td><a href="{{ site.baseurl }}/curriculum/1/experiment">Experimenting with AI</a></td>
     </tr>
     <tr>
       <td><b>2</b></td>
       <td>Wednesday, 6/23</td>
-      <td><a href="/curriculum/2/ml">How Machine Learning Works</a></td>
-      <td><a href="/curriculum/2/pretrained">Exploring Machine Learning with Edge Impulse</a></td>
+      <td><a href="{{ site.baseurl }}/curriculum/2/ml">How Machine Learning Works</a></td>
+      <td><a href="{{ site.baseurl }}/curriculum/2/pretrained">Exploring Machine Learning with Edge Impulse</a></td>
     </tr>
     <tr>
       <td><b>3</b></td>
       <td>Thursday, 6/24</td>
-      <td><a href="/curriculum/3/community">How can I use ML in my Community?</a></td>
-      <td><a href="/curriculum/3/impulse"><i>Build it!</i> Creating your own application with Edge Impulse</a></td>
+      <td><a href="{{ site.baseurl }}/curriculum/3/community">How can I use ML in my Community?</a></td>
+      <td><a href="{{ site.baseurl }}/curriculum/3/impulse"><i>Build it!</i> Creating your own application with Edge Impulse</a></td>
     </tr>
     <tr>
       <td><b>4</b></td>
       <td>Friday, 6/25</td>
-      <td><a href="/curriculum/4/responsible">Responsible AI</a></td>
-      <td><a href="/curriculum/4/next">What's Next?</a></td>
+      <td><a href="{{ site.baseurl }}/curriculum/4/responsible">Responsible AI</a></td>
+      <td><a href="{{ site.baseurl }}/curriculum/4/next">What's Next?</a></td>
     </tr>
   </tbody>
 </table>
