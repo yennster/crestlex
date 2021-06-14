@@ -2,7 +2,7 @@
 
 >Click **[here](https://www.google.com)** to join our Zoom call.
 
-*Hello* 👋future machine learning expert!  Welcome to CRESTLEX.  Today, we'll explore the wonders of Artificial Intelligence, hearing from a leading industry professional from [Google](www.google.com).  Then, in the afternoon, we'll explore fun applications of Artificial Intelligence—from drawing and writing, to sounds, images, and movement recognition.
+*Hello* 👋 future machine learning expert!  Welcome to CRESTLEX.  Today, we'll explore the wonders of Artificial Intelligence, hearing from a leading industry professional from [Google](www.google.com).  Then, in the afternoon, we'll explore fun applications of Artificial Intelligence—from drawing and writing, to sounds, images, and movement recognition.
 
 ***
 

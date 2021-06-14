@@ -2,9 +2,9 @@
 
 >Click **[here](https://www.google.com)** to join our Zoom call.
 
-Welcome back!  *Last time*, you learned about the power 💡of Artificial Intelligence!  
+Welcome back!  *Last time*, you learned about the power 💡 of Artificial Intelligence!  
 
-*Today*, we're going to talk all about **machine learning** (ML) to figure out just how that AI learns and classifies.  We'll start with the fundamentals, then in the afternoon, our friends from *Edge Impulse* will join us to help **you** deploy an ML application 📲to your phone!
+*Today*, we're going to talk all about **machine learning** (ML) to figure out just how that AI learns and classifies.  We'll start with the fundamentals, then in the afternoon, our friends from *Edge Impulse* will join us to help **you** deploy an ML application 📲 to your phone!
 
 ***
 
