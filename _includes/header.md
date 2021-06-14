@@ -13,5 +13,5 @@
   <img src="{{ '/assets/ntu.svg' | relative_url }}" alt="Navajo Technical University" style="height: 3.5rem">
 </a>
 <a style="text-decoration:none" href="https://www.edgeimpulse.com/">
-  <img src="{{ '/assets/edgeimpulse.svg' | relative_url }}" alt="Edge Impulse" style="height: 3.5rem">
+  <img src="{{ '/assets/edgeImpulse.svg' | relative_url }}" alt="Edge Impulse" style="height: 3.5rem">
 </a>
