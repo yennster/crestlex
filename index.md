@@ -8,7 +8,7 @@ title: false
 
 CRESTLEX 3.0 is the first-of-its-kind, 1-week, hands-on/virtual course for high school **teachers** and **students** which will give you experience in developing a real-world application of ML through hands-on examples of Tiny Machine Learning (TinyML).  
 
-This program is a collaboration among **Navajo Technical University**, **Harvard** John A. Paulson School of Engineering and Applied Sciences, **Google**, and **Edge Impulse**.  CRESTLEX 3.0 will be run virtually from June 22 to June 25, 2021. We look forward to exploring TinyML with you this summer.
+This program is a collaboration among **Navajo Technical University**, **Harvard** John A. Paulson School of Engineering and Applied Sciences, **Google**, and **Edge Impulse**.  CRESTLEX will be run virtually from June 22 to June 25, 2021. We look forward to exploring TinyML with you this summer.
 
 <div class="message">
 <b>No prior experience</b> is expected.
