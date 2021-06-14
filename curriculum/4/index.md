@@ -23,4 +23,4 @@ Led by <b>you</b><br>
 <i>with special guests from the Navajo Nation and more</i>
 </div>
 
-* [Session Notes](pretrained)
+* [Session Notes](next)
