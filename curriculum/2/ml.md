@@ -4,6 +4,9 @@
 * TOC
 {:toc}
 
+## Slides
+<iframe title="Tools" src="{{'/curriculum/2/ml/mlWorks.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>
+
 ## What is computer science?
 
 * Computer science is fundamentally problem-solving, and programming alone or (more likely) collaboratively is one way to do that.
