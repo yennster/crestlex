@@ -4,7 +4,7 @@ title: false
 
 # Yá'át'ééh 👋 (Welcome!)
 
->Click **[here](https://www.google.com)** to join our Zoom call.
+>Click **[here](https://harvard.zoom.us/j/95976553851?pwd=S0VCTG1tVUtBeXJ2RUxNdGVnc3pidz09)** to join our Zoom call.
 
 CRESTLEX 3.0 is the first-of-its-kind, 1-week, hands-on/virtual course for high school **teachers** and **students** which will give you experience in developing a real-world application of ML through hands-on examples of Tiny Machine Learning (TinyML).  
 
@@ -29,7 +29,7 @@ This program is a collaboration among **Navajo Technical University**, **Harvard
     <tr>
       <td><b>Day</b></td>
       <td><b>Date</b></td>
-      <td>Morning Session<br><b>9am–11pm MT</b></td>
+      <td>Morning Session<br><b>9am–11am MT</b></td>
       <td>Afternoon Session<br><b>12pm–2pm MT</b></td>
     </tr>
     <tr>

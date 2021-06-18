@@ -1,6 +1,6 @@
 # Day 3
 
->Click **[here](https://www.google.com)** to join our Zoom call.
+>Click **[here](https://harvard.zoom.us/j/95976553851?pwd=S0VCTG1tVUtBeXJ2RUxNdGVnc3pidz09)** to join our Zoom call.
 
 Can you believe it?  We're already halfway through our week-long workshop!  *Last time*, you learned the fundamentals of machine learning from the ground up.  
 

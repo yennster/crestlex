@@ -1,6 +1,6 @@
 # Day 4
 
->Click **[here](https://www.google.com)** to join our Zoom call.
+>Click **[here](https://harvard.zoom.us/j/95976553851?pwd=S0VCTG1tVUtBeXJ2RUxNdGVnc3pidz09)** to join our Zoom call.
 
 Time flies when you're having fun!  (Time slows down 😖 when you're training your ML model.)  Believe it or not, today is our last day 🥺😭 together.
 
