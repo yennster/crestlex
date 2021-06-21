@@ -3,7 +3,7 @@ title: Staff
 ---
 # *Hello* 👋 from our teaching team!
 
-Throughout the spring semester, these individuals worked behind the scenes to make CRESTLEX 3.0 a reality.
+These individuals worked behind the scenes to make CRESTLEX 3.0 a reality.
 > Feel free to reach out to our instructional team with any questions!
 
 <div class="grid-container-team">
@@ -116,7 +116,7 @@ Throughout the spring semester, these individuals worked behind the scenes to ma
     </div>
     <div class="grid-child">
         <b>Dhilan Ramaprasad</b><br>
-        Undergraduate, <i>Harvard</i> Class of 2022<br>
+        Head Teaching Assistant, <i>Harvard</i><br>
         <a href="https://dhilanr.github.io/">dhilanr.github.io</a><br>
         <a href="mailto:dhilanramaprasad@college.harvard.edu"><i class="fas fa-envelope"></i> Email me!</a>
     </div> 
