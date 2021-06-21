@@ -19,7 +19,7 @@ Led by <b>Susan</b>, <i>Harvard</i>
 
 ### What's Next?
 <div class="message">
-Led by <b>You</b>! The grand finale with <i>with special guests</i>!
+Led by <b>You</b>! The grand finale <i>with special guests</i>!
 </div>
 
 * [Session Notes](next)

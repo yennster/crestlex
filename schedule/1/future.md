@@ -26,7 +26,7 @@
 ### Q&A
 + What questions do you have for Laurence?
 
-<iframe title="Tools" src="{{'/curriculum/1/future/future.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>
+<iframe title="Tools" src="{{'/schedule/1/future/future.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>
 
 ## Agenda for the Rest of the Workshop
 + Slides can be found below!
