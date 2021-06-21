@@ -1,9 +1,3 @@
-# Lesson Plans
-> Coming **soon**!
-
-We'll use feedback from teachers who attend the June workshop to create packaged and portable lesson plans for use as short modules in high school CS classes.
-
-
 # Workshop Modules
 
 * [The Future of Artificial Intelligence](1/future)
@@ -22,7 +16,7 @@ We'll use feedback from teachers who attend the June workshop to create packaged
 ***
 
 * [Responsible AI](4/responsible)
-* [What's Next? (for students)](4/next)
+* [What's Next?](4/next)
 
 # edX Resources (TinyMLx)
 

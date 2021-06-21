@@ -20,7 +20,6 @@ Led by <b>Dhilan</b>, <i>Harvard</i>
 ### Exploring Machine Learning with Edge Impulse
 <div class="message">
 Led by <b>Jenny</b>, <i>Edge Impulse</i><br>
-<i>with help from Harvard and NTU</i>
 </div>
 
 * [Session Notes](exploring)
