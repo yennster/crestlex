@@ -8,6 +8,11 @@
 ### Welcome Message
 ### Zoom Etiquette
 ### Introduction Breakouts
++ What is your name?
++ Where are you located?
++ Are you a Student or Teacher (and what year)?
++ What do you hope to learn?
+
 <iframe title="Tools" src="{{'/schedule/1/future/welcome.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>
 
 ## The Future of AI (9:40-10:45am)

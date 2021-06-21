@@ -4,7 +4,7 @@
 
 Can you believe it?  We're already halfway through our workshop!  *Last time*, you learned the fundamentals of machine learning.  
 
-*Today*, in smaller groups, we're going to brainstorm 🤔 how you could use machine learning to help **your own communities**.  Then, in the afternoon, our friends from (*Edge Impulse*)[https://www.edgeimpulse.com/] are back to help you take those ideas to create 🛠 your own *custom* ML app, designed just for you.
+*Today*, in smaller groups, we're going to brainstorm 🤔 how you could use machine learning to help **your own communities**.  Then, in the afternoon, our friends from [*Edge Impulse*](https://www.edgeimpulse.com/) are back to help you take those ideas to create 🛠 your own *custom* ML app, designed just for you.
 
 ***
 

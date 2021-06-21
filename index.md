@@ -62,13 +62,4 @@ CRESTLEX 3.0 will be run virtually from June 22 to June 25, 2021.
 </table>
 
 ### Questions?
-Contact [crestlex-staff@googlegroups.com](mailto:crestlex-staff@googlegroups.com) with any questions regarding this workshop. 
-
-
-
-<!-- TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to small low-power computing devices. This course will expose participants to the applications, algorithms, hardware, and software of TinyML.
-
-*Are you curious about how Artificial Intelligence (AI) can be used to improve your everyday life? Do you ever wonder how your cell phone understands and responds to a question that you ask it? Have you heard the term Artificial Intelligence (AI), or Machine Learning (ML), but aren’t sure about possible uses of ML or AI, or how you might prepare for a career in this field?*
-
-Participants will learn how to use the [Edge Impulse platform](https://www.edgeimpulse.com/) to quickly and easily, collect data, train their own machine learning models, and deploy those models on their own mobile phones! -->
-
+Contact [crestlex-staff@googlegroups.com](mailto:crestlex-staff@googlegroups.com) with any questions regarding this workshop.
