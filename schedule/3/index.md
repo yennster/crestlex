@@ -8,7 +8,7 @@ Can you believe it?  We're already halfway through our workshop!  *Last time*, y
 
 ***
 
-### How Machine Learning Works
+### How can I use ML in my Community?
 <div class="message">
 Led by <b>Peter</b>, <i>NTU</i><br>
 </div>
