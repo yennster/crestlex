@@ -4,7 +4,9 @@
 * TOC
 {:toc}
 
-## What is Data Science
+Coming Soon!
+
+<!-- ## What is Data Science
 
 Data science can be defined as using data systematically to make decisions or obtain insight.
 
@@ -55,3 +57,4 @@ Data collection can be affected by response bias, that is how we ask a question 
 When humans collect data, we can usually assume there will be some degree of bias. But surely computers can be more objective, right? Remember computers are only as objective as the algorithms they are running and who created those algorithms, you guessed it, humans.
 
 Let's consider an example. Say we want to design a machine learning algorithm to determine which recommends resumes employers for a particular job. Well, we'll need a training set for our algorithm to learn from, this would likely be in the form of some data on what resumes resulted in getting hired for similar jobs in the past. If past employers were prejudice towards a particular gender, ethnicity, or group, your algorithm would reflect the same forms of prejudice. This is just one way bias can be embedded in an algorithm, but bias can exist at every level of software development. It is your job as the developer to be aware of of this to reduce bias in your own work.
+ -->

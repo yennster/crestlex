@@ -5,7 +5,7 @@
 {:toc}
 
 ## Introduction to Using AI
-+ Slides below
++ Slides can be found below!
 
 <iframe title="Tools" src="{{'/schedule/1/experiment/intro.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>
 
@@ -26,6 +26,6 @@
 + How do you think the AI is working in this task?
 
 ## Quick Recap and Preview of Day 2 
-+ Slides below
++ Slides can be found below!
 
 <iframe title="Tools" src="{{'/schedule/1/experiment/recap.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>

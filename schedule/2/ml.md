@@ -4,7 +4,9 @@
 * TOC
 {:toc}
 
-## Slides
+Coming Soon!
+
+<!-- ## Slides
 <iframe title="Tools" src="{{'/curriculum/2/ml/mlWorks.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>
 
 ## What is computer science?
@@ -128,4 +130,4 @@ Overfitting is when a model fits the training data so well that it fails to gene
 
  ![Overfitting](overfitting.png)
 
-For example, in the first graph, a dot next to the red one at the bottom of the screen is likely to be Rain (blue). However, with the overfitted model, it will be classified as No Rain (red).
+For example, in the first graph, a dot next to the red one at the bottom of the screen is likely to be Rain (blue). However, with the overfitted model, it will be classified as No Rain (red). -->
