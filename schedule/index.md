@@ -18,6 +18,6 @@
 * [Responsible AI](4/responsible)
 * [What's Next?](4/next)
 
-# edX Resources (TinyMLx)
+<!-- # edX Resources (TinyMLx)
 
-* [Open Courseware Materials](https://github.com/tinyMLx/courseware/tree/master/edX)
+* [Open Courseware Materials](https://github.com/tinyMLx/courseware/tree/master/edX) -->

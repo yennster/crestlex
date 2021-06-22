@@ -8,7 +8,7 @@
 
 On behalf of Harvard, Navajo Technical University, Google, and Edge Impulse, **welcome** to our workshop on **CR**eating **E**ffective **ST**em **L**earning **EX**periences!  We hope that you will learn how to use the art of machine learning and artificial intelligence in your communities, empowering your students, classmates, and members of the Navajo Nation at-large to think it, make it, and then dream bigger!
 
-Throughout our week-long workshop, you will have the opportunity to hear from leading experts in computer science 👩🏻‍💻 from **Google**, master the fundamentals of machine learning with instructors 👨🏾‍🏫 from **Harvard**, explore opportunities to engage with AI and ML at home 🏠 with a hand from students and faculty at **Navajo Tech**, and launch your own apps 🛠🚀 with industry leaders at **Edge Impulse**.
+Throughout our week-long workshop, you will have the opportunity to hear from leading experts in computer science 👩🏻‍💻 from **Google**, master the fundamentals of artificial intelligence (AI) and machine learning (ML) with instructors 👨🏾‍🏫 from **Harvard**, explore opportunities to engage with AI and ML at home 🏠 with a hand from students and faculty at **Navajo Tech**, and launch your own ML apps 🛠🚀 with industry leaders at **Edge Impulse**.
 
 ### Zoom Etiquette
 - **Ask** questions

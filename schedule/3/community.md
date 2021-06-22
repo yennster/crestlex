@@ -5,7 +5,9 @@
 {:toc}
 
 ## STEM/ML in the Navajo Nation
-+ Slides Coming Soon
+<div class="message">
+Slides coming <b>soon</b>.
+</div>
 
 ## Breakout Discussions
 + How would you prioritize which opportunity to go after first? Why do you think your favorite opportunity is the most important?
@@ -20,4 +22,6 @@
 + What do you think will be the hardest challenges faced by all of your ideas? What are some ways to overcome those challenges?
 
 ## Preview of the Afternoon Session
-+ Slides Coming Soon
+<div class="message">
+Slides coming <b>soon</b>.
+</div>

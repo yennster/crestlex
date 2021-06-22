@@ -4,7 +4,9 @@
 * TOC
 {:toc}
 
-Coming Soon!
+<div class="message">
+Coming <b>soon</b>.
+</div>
 
 <!-- ## Slides
 <iframe title="Tools" src="{{'/curriculum/2/ml/mlWorks.pdf' | relative_url }}" width="100%" height="800px" marginwidth="0" marginheight="0" frameborder="1" scrolling="auto"></iframe>

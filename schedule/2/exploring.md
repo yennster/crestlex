@@ -4,4 +4,6 @@
 * TOC
 {:toc}
 
-Coming Soon!
+<div class="message">
+Coming <b>soon</b>.
+</div>
