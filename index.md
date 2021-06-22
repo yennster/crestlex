@@ -44,13 +44,13 @@ CRESTLEX 3.0 will be run virtually from June 22 to June 25, 2021.
       <td><b>2</b></td>
       <td>Wednesday, 6/23</td>
       <td><a href="{{ site.baseurl }}/schedule/2/ml">How Machine Learning Works</a></td>
-      <td><a href="{{ site.baseurl }}/schedule/2/pretrained">Exploring Machine Learning with Edge Impulse</a></td>
+      <td><a href="{{ site.baseurl }}/schedule/2/exploring">Exploring Machine Learning with Edge Impulse</a></td>
     </tr>
     <tr>
       <td><b>3</b></td>
       <td>Thursday, 6/24</td>
       <td><a href="{{ site.baseurl }}/schedule/3/community">How can I use ML in my Community?</a></td>
-      <td><a href="{{ site.baseurl }}/schedule/3/impulse"><i>Build it!</i> Creating your own application with Edge Impulse</a></td>
+      <td><a href="{{ site.baseurl }}/schedule/3/creating"><i>Build it!</i> Creating your own application with Edge Impulse</a></td>
     </tr>
     <tr>
       <td><b>4</b></td>
