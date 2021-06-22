@@ -6,12 +6,12 @@
 ***
 
 * [How Machine Learning Works](2/ml)
-* [Exploring Machine Learning with Edge Impulse](2/pretrained)
+* [Exploring Machine Learning with Edge Impulse](2/exploring)
 
 ***
 
 * [How can I use ML in my Community?](3/community)
-* [*Build it!* Creating your own application with Edge Impulse](3/impulse)
+* [*Build it!* Creating your own application with Edge Impulse](3/creating)
 
 ***
 
