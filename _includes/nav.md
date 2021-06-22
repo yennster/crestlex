@@ -4,7 +4,7 @@
 
 ***
 
-* [Full Schedule]({{ "/schedule" | relative_url }})
+* [**Full Schedule**]({{ "/schedule" | relative_url }})
 * [Staff]({{ "/team" | relative_url }})
 
 ***
